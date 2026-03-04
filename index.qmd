@@ -5,34 +5,25 @@ about:
   template: jolla
 ---
 
-![Lab photo, Spring 2025](images/labphoto2025.jpg){style="float: right;" fig-alt="Turner lab photo, Spring 2025" fig-align="right" width="250"}
+![](Images/labphoto2025.jpg)
 
+*Lab Photo as of Spring 2025*
 
-**The Turner lab is a research lab at the Ohio State University in the Department of Psychiatry. The main mission of the lab is ____. Our goal is to ___.** 
+\*\*The Turner lab is a research lab at the Ohio State University in the Department of Psychiatry. The main mission of the lab is \_\_\_\_. Our goal is to \_\_\_.\*\*
 
-
-## Research Areas 
-------------------------------------------------------------------------
+## Research Areas
 
 **The brain is an ongoing puzzle!** Our research primarily uses neuroimaging techniques to study the brain mechanisms of psychiatric disorders, particularly schizophrenia and psychosis generally, and neuropsychiatric symptoms in neurological disorders. Learn more [here](research.qmd).
 
-
-
 ## Current Projects
-------------------------------------------------------------------------
 
-* Cerebellar contributions to psychosis
-* Cerebellum and aging
-* Analyses to Reveal Trajectories and Early Markers of Imminent Shifts in Suicidal States [ARTEMIS study website](artemis-study.org)
-* Enhancing Neuroimaging Genetics through Meta/Mega Analysis (ENIGMA) Schizophrenia (for more information see the ENIGMA working groups website: [ENIGMA Working Groups](https://enigma.ini.usc.edu/ongoing/)
-
-
+-   Cerebellar contributions to psychosis
+-   Cerebellum and aging
+-   Analyses to Reveal Trajectories and Early Markers of Imminent Shifts in Suicidal States [ARTEMIS study website](artemis-study.org)
+-   Enhancing Neuroimaging Genetics through Meta/Mega Analysis (ENIGMA) Schizophrenia (for more information see the ENIGMA working groups website: [ENIGMA Working Groups](https://enigma.ini.usc.edu/ongoing/)
 
 ## Collaborators
-------------------------------------------------------------------------
 
-* List collaborators
+-   List collaborators
 
 University link: [Department of Psychiatry and Behavioral Health Faculty Page](https://medicine.osu.edu/find-faculty/clinical/psychiatry-and-behavioral-health/jessica-turner-phd)
-
-

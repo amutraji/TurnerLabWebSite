@@ -2,16 +2,20 @@
 title: "Research"
 ---
 
-This is our research.
+![](Images/ChatGPT%20Image%20Jan%2029,%202026,%2004_55_18%20PM.jpg){fig-align="center" width="500"}
 
-**Project 1** ![Caption of project](images/BrainReadingGemini.jpg){width="375"}
+### **Overview of the lab's research**
 
-blahblah
+Our research primarily uses neuroimaging techniques to study the brain mechanisms of psychiatric disorders, particularly schizophrenia and psychosis generally, and neuropsychiatric symptoms in neurological disorders. We study the brain as it functions in humans, and the role it plays in making us who we are. Existing datasets hold many answers, so we analyze those as much as possible before collecting new datasets.
 
-**Project 2** 
+### **Cerebellum and Aging**
 
-blahblah
+Aging is marked by cognitive and affective changes with an increased risk for neuropsychiatric disorders, underscoring the need to investigate the neural mechanisms that potentially drive these outcomes. While traditionally associated with motor control, the cerebellum has been increasingly recognized for its contributions to cognition, emotion, and vulnerability to age-related disorders. Yet, how the cerebellum changes across lifespan and how these changes relate to cognitive and affective decline remains poorly understood. Our research uses structural and functional MRI to investigate cerebellar morphology, connectivity, and age-related alterations. Through this work, we aim to clarify the cerebellum’s role in healthy and pathological aging states and identify potential targets for intervention. 
 
-**Project 3** 
+### **Cerebellar Contributions to Psychotic Disorders**
 
-blahblah
+{blurb}
+
+### **Other Lab Projects**
+
+The lab is currently collecting data for the **Analyses to Reveal Trajectories and Early Markers of Imminent Shifts in Suicidal States (ARTEMIS**) Study as well as being involved in the **Enhancing Neuroimaging Genetics through Meta/Mega Analysis (ENIGMA)** Schizophrenia ([ENIGMA Working Groups](https://enigma.ini.usc.edu/ongoing/))
