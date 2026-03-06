@@ -1,5 +1,6 @@
 ---
 title: "$19.5 million awarded for the ARTEMIS research study"
 date: '2025-10-01'
+image: artemis_logo.png
 description: Dr. Turner secured a multi-million dollar grant from the National Institute of Health (NIH) for the [ARTEMIS Study](https://wexnermedical.osu.edu/mediaroom/pressreleaselisting/national-institutes-of-health-funds-artemis-research).
 ---
