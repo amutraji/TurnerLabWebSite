@@ -2,20 +2,62 @@ project:
   type: website
 
 website:
-  title: "TurnerLabFiles"
+  page-navigation: true
+  title: "Turner Lab Website"
+  description: "Website for the Turner Lab at the Ohio State University"
+
+  open-graph: true
+
+  page-footer:
+    left: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    background: "#758b9c"
+    right:
+    - text: "License"
+      href: LICENSE.md
+    - text: "Code of Conduct"
+      href: CODE_OF_CONDUCT.md
+
   navbar:
+    background: "#758b9c"
+    logo: "images/lab_logo.png"
+    align: center
+    title: false
+    collapse-below: lg
+
+    right:
+      - icon: github
+        href: https://github.com
+        aria-label: GitHub
+
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: index.qmd
+      - text: "People"
+        href: people/index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications & Talks"
+        href: pubs_talks.qmd
+      - text: "News"
+        href: news/index.qmd
+      - text: "Join"
+        href: join.qmd
+
+
+filters:
+  - fontawesome
 
 format:
   html:
     theme:
-      - cerulean
-      - brand
-    css: styles.css
+      light: [cosmo, style/dsbox.scss]
+      dark: [cosmo, style/dsbox.scss, style/dark.scss]
     toc: true
+    code-copy: true
+    code-overflow: wrap
+    mainfont: "Verdana"
+
+freeze: auto
 
 editor: visual
 

@@ -1,43 +1,36 @@
 ---
-title: "Turner Lab" 
+title: "Welcome to the Turner Lab" 
+page-layout: full
 ---
+![](Images/lab_logo_text.png){width=50% fig-align="center"}
 
-![](Images/Lab%20Logo/lab_logo_text.png){width="387"}
 
-------------------------------------------------------------------------
+![](Images/TurnerLab_Photo_Spring2026.jpeg)
 
-# Research Areas ![The brain is an ongoing puzzle!](Images/ChatGPT%20Image%20Jan%2029,%202026,%2004_55_18%20PM.jpg){width="375"}
+*Lab Photo as of Spring 2026*
 
-Our research primarily uses neuroimaging techniques to study the brain mechanisms of psychiatric disorders, particularly schizophrenia and psychosis generally, and neuropsychiatric symptoms in neurological disorders.
+Our research focuses on understanding how brain structure and function relate to genetic, cognitive, and clinical factors, particularly in psychiatric and neurodegenerative disorders. We aim to integrate large‑scale neuroimaging, behavior, genetics, and advanced computational methods to identify the biological pathways that shape mental health.
 
-Basically we study the brain as it functions in humans, and the role it plays in making us who we are. Existing datasets hold many answers, so we analyze those as much as possible before collecting new datasets.
+## Research Areas
 
-------------------------------------------------------------------------
+**The brain is an ongoing puzzle!** Our research primarily uses neuroimaging techniques to study the brain mechanisms of psychiatric disorders, particularly schizophrenia and psychosis generally, and neuropsychiatric symptoms in neurological disorders. Learn more [here](research.qmd).
 
-# ![](Images/BrainReadingGemini.jpg){width="250"} Publications
+::: gray-background
+## Current Projects
 
-Recent papers can be found on Google Scholar: [Jessica Turner's list](https://scholar.google.com/citations?hl=en&user=3O_Br8QAAAAJ){.uri}
+-   Cerebellar contributions to psychosis
 
-Social media: [Bluesky for Jessica Turner](https://bsky.app/profile/jessicaturnerphd.bsky.social)
+-   Cerebellum and aging
 
-University link: [Department of Psychiatry and Behavioral Health Faculty Page](https://medicine.osu.edu/find-faculty/clinical/psychiatry-and-behavioral-health/jessica-turner-phd)
+-   Analyses to Reveal Trajectories and Early Markers of Imminent Shifts in Suicidal States [ARTEMIS study website](artemis-study.org)
 
-------------------------------------------------------------------------
+-   Enhancing Neuroimaging Genetics through Meta/Mega Analysis (ENIGMA) Schizophrenia (for more information see the ENIGMA working groups website: [ENIGMA Working Groups](https://enigma.ini.usc.edu/ongoing/)
+:::
 
-# Current Projects
+## Collaborators
 
-Cerebellar contributions to psychosis
+-   EPICENTER: [Research Labs and Ongoing Projects](https://medicine.osu.edu/departments/psychiatry-and-behavioral-health/epicenter/research)
 
-Cerebellum and aging
+-   Faculty Link: [Department of Psychiatry and Behavioral Health Faculty Page](https://medicine.osu.edu/find-faculty/clinical/psychiatry-and-behavioral-health/jessica-turner-phd)
 
-Analyses to Reveal Trajectories and Early Markers of Imminent Shifts in Suicidal States [ARTEMIS study website](artemis-study.org)
-
-Enhancing Neuroimaging Genetics through Meta/Mega Analysis (ENIGMA) Schizophrenia (for more information see the ENIGMA working groups website: [ENIGMA Working Groups](https://enigma.ini.usc.edu/ongoing/)
-
-------------------------------------------------------------------------
-
-# Lab Personnel
-
-Spring, 2025
-
-![Lab personnel, Spring 2025](Images/labphoto2025.jpg)
+-   C4N: [Center for Neuroimaging, Neurophenotyping, Neurocomputation, and Neuromodulation (C4N)](https://u.osu.edu/c4npsychiatry/)
