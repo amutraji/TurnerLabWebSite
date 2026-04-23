@@ -3,7 +3,7 @@ title: Abdulla Mutraji
 last: Mutraji
 first: Abdulla
 people_group: researcher
-subtitle: Research Assistant
+subtitle: Research Staff
 description: ""
 image: avatar.jpg
 page-layout: full
